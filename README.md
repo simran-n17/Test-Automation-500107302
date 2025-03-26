@@ -237,4 +237,4 @@ Access API documentation at:
 
 ## Author
 
-Tarak Katoch
+Simran Negi
